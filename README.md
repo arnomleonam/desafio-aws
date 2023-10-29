@@ -1,6 +1,9 @@
 RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+
 Data: 29/10/2023 
+
 Empresa: Abstergo Industries 
+
 Responsável: Arnom Leonam Pedreira Lopes
 
 Introdução
@@ -30,12 +33,15 @@ A implementação de ferramentas na empresa Abstergo Industries tem como esperad
 Anexos:
 
 AMAZON ELASTIC COMPUTE CLOUD - EC2:
+
 ![Amazon-EC2](https://github.com/arnomleonam/desafio-aws/assets/51215742/22d6dae7-028c-4915-a0d9-99e51da5c0d1)
 
 AMAZON EC2 AUTOSCALING:
+
 ![sample-3-tier-architecture-auto-scaling-diagram](https://github.com/arnomleonam/desafio-aws/assets/51215742/ae093fed-8b2d-49ec-a6ac-63e276e97c71)
 
 AMAZON AURORA:
+
 ![amazon-aurora-serverless-architecture-1](https://github.com/arnomleonam/desafio-aws/assets/51215742/89c79c74-50c7-411b-a539-f930a681c309)
 
 Assinatura do Responsável pelo Projeto: Arnom Leonam Pedreira Lopes
