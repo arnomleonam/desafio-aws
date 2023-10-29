@@ -6,11 +6,11 @@ Empresa: Abstergo Industries
 
 Responsável: Arnom Leonam Pedreira Lopes
 
-Introdução
-Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Arnom Leonam Pedreira Lopes. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
+Introdução:
+- Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Arnom Leonam Pedreira Lopes. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
-Descrição do Projeto
-O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
+Descrição do Projeto:
+- O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
 
 Etapa 1: 
 - AMAZON ELASTIC COMPUTE CLOUD - EC2
